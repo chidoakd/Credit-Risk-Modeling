@@ -44,6 +44,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost joblib
 
 ## Author
 - Cigdem Akdemir
+- cigdemakdem@gmail.com
 
 ## License
 MIT License
